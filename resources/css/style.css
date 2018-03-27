@@ -18,5 +18,13 @@ ul {
 a {
   color: white;
   font-size: 18px;
-  line-height: 30px;  
+  line-height: 30px;
+}
+.background2 {
+  background-image: url(../media/the-flatiron-building.png);
+}
+h4 {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
