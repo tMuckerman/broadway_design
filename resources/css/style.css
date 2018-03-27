@@ -10,6 +10,22 @@ h1 {
   font-size: 70px;
   font-weight: bold;
 }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+h4 {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -22,9 +38,4 @@ a {
 }
 .background2 {
   background-image: url(../media/the-flatiron-building.png);
-}
-h4 {
-  color: white;
-  font-size: 23px;
-  font-weight: bold;
 }
