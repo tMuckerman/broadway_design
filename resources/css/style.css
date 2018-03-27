@@ -31,11 +31,17 @@ ul {
   margin: 0;
   padding: 0;
 }
-a {
+li a {
   color: white;
   font-size: 18px;
   line-height: 30px;
 }
 .background2 {
   background-image: url(../media/the-flatiron-building.png);
+}
+footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
